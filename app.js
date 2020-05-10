@@ -5,4 +5,10 @@
   * Una vez hecho esto podremos escribir JSX Normalmente. NOTA:_ Todo lo que se ponga entre Corchetes "{...}" en JSX será interpretado como Javascript Normal y las Clases de los Elementos en JSX se 
   * escribe "className='***'" en vez de solo "class='***'". NO se pueden poner varios Elementos HTML/JSX en una misma constante/variable, en todo caso se puede Poner 1 Elemento que sea Contenedor de Otros Varios
   * Elementos dentro de él. Si se quieren escribir varias Líneas, poner todo el Contenido de la constante/variable dentro de Paréntesis "(...)".*/
+/**+-Para Poder Usar Redux en Nuestro Proyecto, Primero Debemos Descargar e Instalar Node.js desde "https://nodejs.org/en/#home-downloadhead", Instalar la Extensión de "Code Runner" en Visual
+ * Studio Code y Después Cerrar y Reabrir el Programa, luego Abrir Con VS Code la Carpeta de Nuestro Nuevo Proyecto con Redux, Abrir la Terminal y Escribir:_
+ * 
+ * $ npm init -y (Y le damos ENTER)
+ * $ npm i redux (Y le damos ENTER)
+ * .*/
 
